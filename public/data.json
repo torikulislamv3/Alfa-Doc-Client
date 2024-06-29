@@ -1,0 +1,38 @@
+[
+  {
+    "img": "https://i.postimg.cc/Qx45Yy3d/ai-generated-8258346-1920.jpg",
+    "title": "Math Solution",
+    "level": "easy",
+    "totalMarks": 50
+  },
+  {
+    "img": "https://i.postimg.cc/X7JB5kCS/assignment-8184824-1920.jpg",
+    "title": "Windows Setup",
+    "level": "medium",
+    "totalMarks": 75
+  },
+  {
+    "img": "https://i.postimg.cc/ncHgGCFt/game-6988033-1920-1.png",
+    "title": "Game Development",
+    "level": "hard",
+    "totalMarks": 100
+  },
+  {
+    "img": "https://i.postimg.cc/4NN2hqPf/django-339744-1920.png",
+    "title": "Django Practice",
+    "level": "easy",
+    "totalMarks": 60
+  },
+  {
+    "img": "https://i.postimg.cc/Gm6XV2Ct/code-6127616-1920.png",
+    "title": "Programming Language",
+    "level": "medium",
+    "totalMarks": 80
+  },
+  {
+    "img": "https://i.postimg.cc/QMpJzJmY/code-1076533-1920.jpg",
+    "title": "Web Development",
+    "level": "hard",
+    "totalMarks": 95
+  }
+]
